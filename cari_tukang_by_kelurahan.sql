@@ -1,0 +1,1 @@
+EXECUTE lihat_riwayat '2020-12-05';
